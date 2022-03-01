@@ -1,4 +1,4 @@
-<p align="center" style="border-radius:100%"><img height="auto" width="20%"  src="https://avatars.githubusercontent.com/u/100298147?v=4" ></p>
+<p align="center" style="border-radius:100%"><img height="auto" width="20%"  src="https://i.picasion.com/pic92/b640e63da3ed3f296541b628df4b7278.gif" ></p>
 
 <div>
   <h1 align="center">Opa! Beleza? 😁👋</h1>
@@ -18,6 +18,9 @@
   </a>
 </div>
 <div align="center" valign="top"><br>
+  
+  <img align="center"  width="50" src="https://cdn.discordapp.com/attachments/929707861125255178/948016414286049300/e8nZC.gif">
+  
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -27,6 +30,9 @@
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  
+  <img align="center"  width="50" src="https://cdn.discordapp.com/attachments/929707861125255178/948018677171769374/mR5uHXLuePGT.gif">
+  
 </div><br>
 <div align="center">
   <a href="https://www.youtube.com/channel/UCpB31XNJ0nnU_jLl8yd1ymQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
