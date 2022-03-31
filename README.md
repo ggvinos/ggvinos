@@ -43,8 +43,9 @@
 </div>
 <div align="center">
   <h3>Faço algumas artes aleatorias e posto todas nesse perfil do insta: <a href="https://www.instagram.com/vinos.art/">vinos.art</a></h3>
-  
+ 
+  <a href="https://www.instagram.com/vinos.art/">
  <img align="center" width="800" src="https://cdn.discordapp.com/attachments/929707861125255178/948987453967065168/Untitled-4.png">
-  
+  </a>
 </div>
 <div align="center">
