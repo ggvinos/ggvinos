@@ -3,7 +3,7 @@
 <div>
   <h1 align="center">Opa! Beleza? 😁👋</h1>
   <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/ggvinos/"><i>Vinicios Ferreira</i></a> Atualmente estou estudando Front-End e Ux & IU. 🧠
-  <p align="center"> Sempre fui muito apaixonado por tecnologia, Atualmente estou terminando o curso <i>ProgramadorBr</i> do Igor Oliveira...
+  <p align="center"> Sempre fui muito apaixonado por tecnologia, Atualmente estou terminando o curso <i>ProgramadorBr</i> do Igor Oliveira.
   </b> <hr>
   <p align="center">Acho incrivel passar todo tipo de informação para frente e principalmente de forma descontraida com isso compartilho meu aprendizado no meu canal no <a href="https://www.youtube.com/channel/UCpB31XNJ0nnU_jLl8yd1ymQ"><i>YouTube</i></a>
   
