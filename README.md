@@ -2,7 +2,7 @@
 
 <div>
   <h1 align="center">Opa! Beleza? 😁👋</h1>
-  <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/ggvinos/"><i>Vinicios Ferreira</i></a> Atualmente estudando <b>Testes QA<b> e trabalhando com Ux & IU. 🧠
+  <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/ggvinos/"><i>Vinicios Ferreira</i></a> Atualmente estudando <strong>Testes QA<strong> e trabalhando com Ux & IU. 🧠
   <p align="center"> Apaixonado por tecnologia, sou formado em <i>Engenharia de Software</i>
   </b> <hr>
   <p align="center">Acho incrivel passar todo tipo de informação para frente e principalmente de forma descontraida com isso compartilho meu aprendizado no meu canal no <a href="https://www.youtube.com/channel/UCpB31XNJ0nnU_jLl8yd1ymQ"><i>YouTube</i></a>
