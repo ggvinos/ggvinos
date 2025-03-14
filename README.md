@@ -6,6 +6,8 @@
   <p align="center"> Apaixonado por tecnologia, sou formado em <i>Engenharia de Software</i>
   </b> <hr>
   <p align="center">Acho incrivel passar todo tipo de informação para frente e principalmente de forma descontraida com isso compartilho meu aprendizado no meu canal no <a href="https://www.youtube.com/channel/UCpB31XNJ0nnU_jLl8yd1ymQ"><i>YouTube</i></a>
+
+  Portifólio: https://vinicios-software-engineer.framer.website/
   
     
   
