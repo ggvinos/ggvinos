@@ -1,4 +1,4 @@
-<p align="center" style="border-radius:100%"><img height="auto" width="20%"  src="https://i.picasion.com/pic92/b640e63da3ed3f296541b628df4b7278.gif" ></p>
+<p align="center" style="border-radius:100%"><img height="auto" width="20%"  src="https://i.picasion.com/pic92/4c0f70811a225fd90dd33e80ef627e2b.gif" ></p>
 
 <div>
   <h1 align="center">Opa! Beleza? 😁👋</h1>
