@@ -2,12 +2,12 @@
 
 <div>
   <h1 align="center">Opa! Beleza? 😁👋</h1>
-  <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/ggvinos/"><i>Vinicios Ferreira</i></a> Atualmente trabalho com <i>Testes QA</i> e Ux/IU. 🧠
-  <p align="center"> Apaixonado por tecnologia, sou formado em <i>Engenharia de Software</i>
+  <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/ggvinos/"><i>Vinicios Ferreira</i></a> QA Engineer com foco em automação de testes e background em UX/UI. Bacharel em Engenharia de Software, com 6+ anos em Tecnologia 🧠
+  <p align="center"> Apaixonado pela inovação!
   </b> <hr>
   <p align="center">Acho incrivel passar todo tipo de informação para frente e principalmente de forma descontraida com isso compartilho meu aprendizado no meu canal no <a href="https://www.youtube.com/channel/UCpB31XNJ0nnU_jLl8yd1ymQ"><i>YouTube</i></a>
 
-  Portifólio: https://vinicios-software-engineer.framer.website/
+  Portifólio: https://vinicios-ferreira.framer.website/
   
     
   
