@@ -1,4 +1,4 @@
-<p align="center" style="border-radius:100%"><img height="auto" width="20%"  src="https://i.picasion.com/pic92/4f3bd07f7efe527c360502c764114d12.gif" ></p>
+<p align="center" style="border-radius:100%"><img height="auto" width="100%"  src="https://media.licdn.com/dms/image/v2/D4D16AQGfY4BAKpVqfg/profile-displaybackgroundimage-shrink_350_1400/B4DZmXKNCTHYAY-/0/1759177666520?e=1762387200&v=beta&t=_xWWbo4xEcgaSbcsp058erLExisd-sYtFl20VdPeeA8" ></p>
 
 <div>
   <h1 align="center">Opa! Beleza? 😁👋</h1>
