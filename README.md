@@ -1,49 +1,36 @@
-<p align="center" ><img height="auto" width="100%"  src="https://media.licdn.com/dms/image/v2/D4D16AQGfY4BAKpVqfg/profile-displaybackgroundimage-shrink_350_1400/B4DZmXKNCTHYAY-/0/1759177666520?e=1762387200&v=beta&t=_xWWbo4xEcgaSbcsp058erLExisd-sYtFl20VdPeeA8" ></p>
+# Hey, I'm Vinicios Ferreira 👋
 
-<div>
-  <h1 align="center">Opa! Beleza? 😁👋</h1>
-  <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/ggvinos/"><i>Vinicios Ferreira</i></a> QA Engineer com foco em automação de testes e background em UX/UI. Bacharel em Engenharia de Software, com 6+ anos em Tecnologia 🧠
-  <p align="center"> Apaixonado pela inovação!
-  </b> <hr>
-  <p align="center">Acho incrivel passar todo tipo de informação para frente e principalmente de forma descontraida com isso compartilho meu aprendizado no meu canal no <a href="https://www.youtube.com/channel/UCpB31XNJ0nnU_jLl8yd1ymQ"><i>YouTube</i></a>
+### QA Engineer | Manual Testing · API Testing · Automation | UX & Usability
 
-  Portifólio: https://vinicios-ferreira.framer.website/
-  
-    
-  
-</div>
+Software Engineer with 6+ years in tech, currently working as a QA Engineer at **Nina Tecnologia** — a SaaS platform for healthcare management.
 
-<div align="center">
-  <a href="https://github.com/ggvinos">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ggvinos&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggvinos&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-<div align="center" valign="top"><br>
-  
-  <img align="center"  width="50" src="https://cdn.discordapp.com/attachments/929707861125255178/948016414286049300/e8nZC.gif">
-  
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  
-  <img align="center"  width="50" src="https://cdn.discordapp.com/attachments/929707861125255178/948018677171769374/mR5uHXLuePGT.gif">
-  
-</div><br>
-<div align="center">
-  <a href="https://www.youtube.com/channel/UCpB31XNJ0nnU_jLl8yd1ymQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/vini.oi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/vnooss" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ggvinos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:vincios1901@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-<div align="center">
+I specialize in:
+- 🔍 Manual & exploratory testing
+- 🔌 API testing with Postman & Newman
+- 🤖 Test automation with Cypress
+- 🎨 UX/Usability testing (Nielsen Heuristics, WCAG)
+- 🐛 Structured bug reporting (Jira)
+- 📊 QA metrics and test documentation
 
-</div>
-<div align="center">
+---
+
+### 🛠️ Tools & Stack
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+- 🧪 [desafio-coco-bambu](https://github.com/ggvinos/desafio-coco-bambu) — E2E automation + API testing with Cypress
+- 🔌 [api-testing-reqres](https://github.com/ggvinos/api-testing-reqres) — API testing with Postman & Newman *(coming soon)*
+- 📋 [manual-qa-demoqa](https://github.com/ggvinos/manual-qa-demoqa) — Manual testing + bug reports *(coming soon)*
+
+---
+
+### 📫 Let's connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ggvinos/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=framer&logoColor=white)](https://vinicios-ferreira.framer.website)
