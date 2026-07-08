@@ -33,4 +33,4 @@ I specialize in:
 
 ### 📫 Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ggvinos/)
-[![Portfolio](https://vinicios-ferreira.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://vinicios-ferreira.vercel.app/)
