@@ -58,16 +58,16 @@ I care about how things work and how they feel: testing, UX and building small t
 
 ---
 
-## GitHub stats
+## GitHub activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ggvinos&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggvinos&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+<img src="https://img.shields.io/github/followers/ggvinos?style=for-the-badge&logo=github&label=FOLLOWERS&color=7AA2F7&labelColor=1a1b27" alt="Followers"/>
+<img src="https://img.shields.io/badge/FOCUS-QA%20%2B%20Building-7AA2F7?style=for-the-badge&labelColor=1a1b27" alt="Focus"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ggvinos&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ggvinos&theme=tokyonight&hide_border=true&v=2" alt="GitHub streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ggvinos&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ggvinos&theme=tokyo-night&hide_border=true&area=true&v=2" alt="Activity graph"/>
 
 </div>
 
