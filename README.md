@@ -3,7 +3,7 @@
 # Vinicios Ferreira
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&lines=QA+Engineer+%40+Nina+Tecnologia;From+Support+to+UX+to+Quality;I+test+products+and+I+build+them;Cypress+%C2%B7+API+Testing+%C2%B7+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&lines=QA+Engineer+%40+Nina+Tecnologia;From+Support+to+UX+to+Quality;I+test+products+and+I+build+them;Playwright+%C2%B7+API+Testing+%C2%B7+Performance" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -33,11 +33,14 @@ I care about how things work and how they feel: testing, UX and building small t
 
 **Testing & QA**
 
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Newman](https://img.shields.io/badge/Newman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Accessibility](https://img.shields.io/badge/WCAG%20%2F%20A11y-005A9C?style=flat-square&logo=w3c&logoColor=white)
+![Accessibility](https://img.shields.io/badge/WCAG%20%2F%20axe-005A9C?style=flat-square&logo=w3c&logoColor=white)
 
 **Languages**
 
@@ -73,8 +76,27 @@ I care about how things work and how they feel: testing, UX and building small t
 
 ## Featured projects
 
+### Test automation
+
 | Project | What it is | Stack |
 |---|---|---|
+| [acorde-e2e](https://github.com/ggvinos/acorde-e2e) | Black-box E2E suite for a live product: onboarding, search, SEO, axe accessibility, desktop and mobile, with known defects documented as expected failures | Playwright · TypeScript · axe |
+| [api-testing-serverest](https://github.com/ggvinos/api-testing-serverest) | API tests with JSON Schema contracts, auth, cart flow and negative cases; found a plaintext-password exposure | pytest · requests · jsonschema |
+| [k6-api-performance](https://github.com/ggvinos/k6-api-performance) | Smoke, load and stress scenarios over a real user journey, with pass/fail thresholds in CI | k6 · GitHub Actions |
+| [erp-fakes-qa](https://github.com/ggvinos/erp-fakes-qa) | Simulated healthcare ERPs (Feegow, NetPacs, Tasy) with controllable failures, for testing integrations without real accounts | Python · 151 tests |
+| [qa-copilot](https://github.com/ggvinos/qa-copilot) | Claude Code skill that reads a ticket, drafts an ISTQB-based test plan and documents the result with human confirmation | Python · Claude Code |
+
+### Earlier work
+
+| Project | What it is | Stack |
+|---|---|---|
+| [desafio-coco-bambu](https://github.com/ggvinos/desafio-coco-bambu) | E2E and API test automation with Page Object Model | Cypress · JavaScript |
+| [sea-sesafio](https://github.com/ggvinos/sea-sesafio) | QA challenge: test plan, cases, bug report and E2E automation | Cypress · JavaScript |
+| [portfolio](https://github.com/ggvinos/portfolio) | Bilingual portfolio with Playwright, axe and CI on every push | Next.js · TypeScript |
+| [canvas-collision](https://github.com/ggvinos/canvas-collision) | Obsidian plugin: canvas nodes push each other and auto-resolve overlaps | JavaScript |
+| [hub-psicologia](https://github.com/ggvinos/hub-psicologia) | Marketplace and management platform for psychologists | HTML · Web |
+
+---|---|---|
 | [desafio-coco-bambu](https://github.com/ggvinos/desafio-coco-bambu) | E2E and API test automation: critical flows, UI and API coverage | Cypress · JavaScript |
 | [cypress-performatico](https://github.com/ggvinos/cypress-performatico) | Study on writing fast, resilient and maintainable Cypress suites | Cypress · JavaScript |
 | [sea-sesafio](https://github.com/ggvinos/sea-sesafio) | QA challenge: evaluating and reporting on a web application | JavaScript |
