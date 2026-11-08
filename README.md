@@ -81,6 +81,7 @@ I care about how things work and how they feel: testing, UX and building small t
 | Project | What it is | Stack |
 |---|---|---|
 | [acorde-e2e](https://github.com/ggvinos/acorde-e2e) | Black-box E2E suite for a live product: onboarding, search, SEO, axe accessibility, desktop and mobile, with known defects documented as expected failures | Playwright · TypeScript · axe |
+| [bugbank-playwright](https://github.com/ggvinos/bugbank-playwright) | E2E suite for a banking app with intentional bugs: Page Object Model, mobile, axe, and every defect documented as an expected failure | Playwright · TypeScript |
 | [api-testing-serverest](https://github.com/ggvinos/api-testing-serverest) | API tests with JSON Schema contracts, auth, cart flow and negative cases; found a plaintext-password exposure | pytest · requests · jsonschema |
 | [k6-api-performance](https://github.com/ggvinos/k6-api-performance) | Smoke, load and stress scenarios over a real user journey, with pass/fail thresholds in CI | k6 · GitHub Actions |
 | [erp-fakes-qa](https://github.com/ggvinos/erp-fakes-qa) | Simulated healthcare ERPs (Feegow, NetPacs, Tasy) with controllable failures, for testing integrations without real accounts | Python · 151 tests |
