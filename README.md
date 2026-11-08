@@ -96,13 +96,6 @@ I care about how things work and how they feel: testing, UX and building small t
 | [canvas-collision](https://github.com/ggvinos/canvas-collision) | Obsidian plugin: canvas nodes push each other and auto-resolve overlaps | JavaScript |
 | [hub-psicologia](https://github.com/ggvinos/hub-psicologia) | Marketplace and management platform for psychologists | HTML · Web |
 
----|---|---|
-| [desafio-coco-bambu](https://github.com/ggvinos/desafio-coco-bambu) | E2E and API test automation: critical flows, UI and API coverage | Cypress · JavaScript |
-| [cypress-performatico](https://github.com/ggvinos/cypress-performatico) | Study on writing fast, resilient and maintainable Cypress suites | Cypress · JavaScript |
-| [sea-sesafio](https://github.com/ggvinos/sea-sesafio) | QA challenge: evaluating and reporting on a web application | JavaScript |
-| [ninaflow-studio](https://github.com/ggvinos/ninaflow-studio) | Web app that generates chatbot flows, live on Vercel | Next.js · TypeScript |
-| [canvas-collision](https://github.com/ggvinos/canvas-collision) | Obsidian plugin: canvas nodes push each other and auto-resolve overlaps | JavaScript |
-| [hub-psicologia](https://github.com/ggvinos/hub-psicologia) | Marketplace and management platform for psychologists | HTML · Web |
 
 ---
 
